@@ -147,3 +147,14 @@ input[type="number"] {
 .list li:hover .delete-btn {
     opacity: 1;
 }
+
+#geo{
+    box-shadow: var(--box--shadow);
+    color: #333;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    padding: 10px;
+    margin: 10px 0;
+    
+}
